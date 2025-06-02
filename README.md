@@ -1,1 +1,1 @@
-# useful_code
+My collection of different useful code snippets
