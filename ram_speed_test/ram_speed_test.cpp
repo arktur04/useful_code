@@ -64,7 +64,6 @@ std::tuple<int, int, size_t> parse_args(int argc, char* argv[]) {
     exit:
     print_usage();
     exit(1);
-
 }
 
 // Single-threaded RAM test (for one thread)
